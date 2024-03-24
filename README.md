@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @masterlg23
-- I'm html css and js programmmer
+- I'm a python, lua and html programmer
+- my server on dc https://discord.gg/SDkAEEY54E
